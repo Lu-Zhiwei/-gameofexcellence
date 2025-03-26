@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gameofexcellence.online/sitemap.xml
+
+Disallow: /admin/
+Disallow: /api/
